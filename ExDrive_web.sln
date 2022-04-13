@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExDrive_web", "ExDrive_web.csproj", "{0032F5DB-011D-44F9-B312-3FFD0F2D0F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0032F5DB-011D-44F9-B312-3FFD0F2D0F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0032F5DB-011D-44F9-B312-3FFD0F2D0F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0032F5DB-011D-44F9-B312-3FFD0F2D0F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0032F5DB-011D-44F9-B312-3FFD0F2D0F65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {141596CE-9D8D-4F2D-AA80-BE80A7387406}
+	EndGlobalSection
+EndGlobal
